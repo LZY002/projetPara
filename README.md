@@ -48,6 +48,6 @@ struct table * getArray(FILE * file)                                            
 
 
 
-The programme which I used Xcode to write  executes all of tests in my Mac, the resultes are all ture, but when  I execute in the python script , the results are false. I don't know what happen.
+The programme which I used Xcode to write  executes all of tests in my Mac, the resultes are all ture, but when  I execute in the python script(the test file) , the results are false. I don't know what happen.
 
 
