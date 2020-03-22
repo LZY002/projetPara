@@ -2,6 +2,7 @@
 Max subsequence
 
 struct table* alloccateTableAndInitialTheSource(int size)                                   non parallel. 
+****
 struct table* allocateTableAndInitialTheSource_copyValue(int* source,int size)              parallel. 
 struct table* allocateTableAndInitialTheResult_psum(int* source,int size)                   parallel. 
 void psum_montee(struct table* result                                                       parallel. 
